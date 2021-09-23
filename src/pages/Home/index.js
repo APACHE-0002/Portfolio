@@ -48,7 +48,7 @@ export default function Home(){
         </section>
 
 
-        {/* Course */}
+        {/* Course  */}
 
         <section className={styles.course}>
             <h1>Courses We Offer</h1>

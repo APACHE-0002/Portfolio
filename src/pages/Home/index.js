@@ -116,8 +116,8 @@ export default function Home(){
 
         <section className={styles.facilities}>
             <h1>Our Facilities</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscinginb elit.</p>
+            
             <div className={styles.row}>
                 <div className={styles.facilities_col}>
                     <img src={library}/>
